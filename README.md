@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [seewho.xyz](https://seewho.xyz/), [miaozi.co](https://miaozi.co/), and some more projects i prefer not to mention.
+- Not much else to say lol, i don't like bios.
+
 <!--
 **Arelera/arelera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
